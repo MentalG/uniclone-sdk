@@ -53,7 +53,7 @@ describe('Router', () => {
             CurrencyAmount.fromRawAmount(Ether.onChain(1), JSBI.BigInt(100))
           ),
           {
-            deadline: 50,
+            deadline: 60,
             recipient: '0x0000000000000000000000000000000000000004',
             allowedSlippage: new Percent('1', '100')
           }
