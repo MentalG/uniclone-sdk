@@ -1,14 +1,14 @@
 {
-  "name": "@uniswap/v2-sdk",
+  "name": "@uniswap-clone/v2-sdk",
   "license": "MIT",
   "version": "4.2.1",
-  "description": "🛠 An SDK for building applications on top of Uniswap V2",
+  "description": "🛠 An SDK clone for building applications on top of Uniswap V2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-v2-sdk.git",
+  "repository": "https://github.com/MentalG/uniclone-sdk",
   "keywords": [
     "uniswap",
     "ethereum"
